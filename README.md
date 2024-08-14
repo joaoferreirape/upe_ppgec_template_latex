@@ -108,7 +108,7 @@ Ao mudar o nome do arquivo principal, deverá ser atualizada a *magic quote* no 
 % !TeX encoding = UTF-8
 % !TeX spellcheck = pt_BR
 % !TeX root = 2024-JOAO-FERREIRA-TESE.tex
-% ------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 </pre>
 
 A linha `% !TeX encoding = UTF-8` informa ao compilador que esse arquivo foi escrito utilizando a codificação de caracteres UTF-8
